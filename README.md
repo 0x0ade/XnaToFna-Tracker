@@ -3,6 +3,26 @@ Game status tracking repository for XnaToFna. Search for your game in the [issue
 
 [**For issues with XnaToFna itself, click here.**](https://github.com/0x0ade/XnaToFna/issues)
 
+### Badges
+
+* ![early crash](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/earlycrash.png)
+    * `![early crash](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/earlycrash.png)`
+    * Crashes early; the game isn't playable at all.
+* ![heavy bugs](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/heavybugs.png)
+    * `![heavy bugs](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/heavybugs.png)`
+    * Has some heavy bugs, f.e. missing environment textures or game crashes after certain point.
+* ![playable with minor bugs](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/minorbugs.png)
+    * `![playable with minor bugs](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/minorbugs.png)`
+    * Has some minor bugs that hinder "perfect" gameplay, f.e. flickering textures. The game should be finished / the main game functionality should work.
+* ![playable with no bugs](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/nobugs.png)
+    * `![playable with no bugs](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/nobugs.png)`
+    * Has virtually no bugs. The game is "perfectly" playable, but still requires some manual tweaks, dependency replacements or similar.
+* ![perfectly playable](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/perfect.png)
+    * `![perfectly playable](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/perfect.png)`
+    * Has virtually no bugs. The game is "perfectly" playable and only requires XnaToFna. Passing arguments to XnaToFna is okay if required. 
+
+### Layout
+
 ```
 ### Game: Some Game
 
@@ -10,7 +30,9 @@ Game status tracking repository for XnaToFna. Search for your game in the [issue
 
 **[Optional] Patch URL:** URL to patch repository or similar.
 
-**Status:** Minor bugs
+![playable with minor bugs](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/minorbugs.png)
+
+**[Optional] XnaToFna arguments:** `--anycpu`
 
 **Description:** This game is almost perfectly playable. Unfortunately it suffers from a minor glitch when enabling fullscreen mode and not restarting.
 
@@ -36,7 +58,9 @@ Game status tracking repository for XnaToFna. Search for your game in the [issue
 
 **[Optional] Patch URL:** URL to patch repository or similar.
 
-**Status:** Minor bugs
+![playable with minor bugs](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/minorbugs.png)
+
+**[Optional] XnaToFna arguments:** `--anycpu`
 
 **Description:** This game is almost perfectly playable. Unfortunately it suffers from a minor glitch when enabling fullscreen mode and not restarting.
 
