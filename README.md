@@ -15,7 +15,7 @@ Game status tracking repository for XnaToFna. Search for your game in the [issue
     * Has some heavy bugs, f.e. missing environment textures or game crashes after certain point.
 * ![playable with minor bugs](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/minorbugs.png)
     * `![playable with minor bugs](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/minorbugs.png)`
-    * Has some minor bugs that hinder "perfect" gameplay, f.e. flickering textures. The game should be finished / the main game functionality should work.
+    * Has some minor bugs that hinder "perfect" gameplay, f.e. flickering textures. The game should be "finishable": Main game functionality should work and the "win condition", if any, should be reachable.
 * ![playable with no bugs](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/nobugs.png)
     * `![playable with no bugs](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/nobugs.png)`
     * Has virtually no bugs. The game is "perfectly" playable, but still requires some manual tweaks, dependency replacements or similar.
