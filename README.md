@@ -29,11 +29,11 @@ Game status tracking repository for XnaToFna. Search for your game in the [issue
 
 **URL:** URL to the Steam Store or similar.
 
-**[Optional] Patch URL:** URL to patch repository or similar.
+**Version:** Latest stable at Steam, date: 2017-09-13
 
 ![playable with minor bugs](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/minorbugs.png)
 
-**[Optional] XnaToFna arguments:** `--anycpu`
+**XnaToFna arguments:** `--anycpu`
 
 **Description:** This game is almost perfectly playable. Unfortunately it suffers from a minor glitch when enabling fullscreen mode and not restarting.
 
