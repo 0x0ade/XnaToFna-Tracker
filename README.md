@@ -1,6 +1,8 @@
 # XnaToFna-Tracker
 Game status tracking repository for XnaToFna. Search for your game in the [issues](https://github.com/0x0ade/XnaToFna-Tracker/issues) or [create a new issue](https://github.com/0x0ade/XnaToFna-Tracker/issues/new) if you want to share the status of a game running via XnaToFna.
 
+[**For a stable build of XnaToFna, click here.**](https://github.com/0x0ade/XnaToFna/releases)
+
 [**For issues with XnaToFna itself, click here.**](https://github.com/0x0ade/XnaToFna/issues)
 
 ### Badges
