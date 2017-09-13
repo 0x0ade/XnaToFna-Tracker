@@ -25,7 +25,7 @@ Game status tracking repository for XnaToFna. Search for your game in the [issue
 
 ### Example issue:
 
-### Game: Some Game
+### [Linux][x64] Some Game 
 
 **URL:** URL to the Steam Store or similar.
 
