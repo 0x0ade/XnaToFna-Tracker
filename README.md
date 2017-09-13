@@ -23,7 +23,7 @@ Game status tracking repository for XnaToFna. Search for your game in the [issue
     * `![perfectly playable](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/perfect.png)`
     * Has virtually no bugs. The game is "perfectly" playable and only requires XnaToFna. Passing arguments to XnaToFna is okay if required. 
 
-### Layout
+### Template
 
 ```
 ### Game: Some Game
@@ -53,6 +53,8 @@ Game status tracking repository for XnaToFna. Search for your game in the [issue
 * URL to screenshot 1
 * URL to screenshot 2
 ```
+
+### Example:
 
 ### Game: Some Game
 
