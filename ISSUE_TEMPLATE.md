@@ -1,26 +1,26 @@
-### Game: Some Game
+### Game: 
 
-**URL:** URL to the Steam Store or similar.
+**URL:** 
 
-**[Optional] Patch URL:** URL to patch repository or similar.
+**[Optional] Patch URL:** 
 
-![playable with minor bugs](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/minorbugs.png)
+// Check https://github.com/0x0ade/XnaToFna-Tracker/blob/master/README.md to decide which label fits best.
 
-**[Optional] XnaToFna arguments:** `--anycpu`
+**[Optional] XnaToFna arguments:** ` `
 
-**Description:** This game is almost perfectly playable. Unfortunately it suffers from a minor glitch when enabling fullscreen mode and not restarting.
+**Description:** 
 
 **Changes required:**
 
-* Rename `content` directory to `Content` (case sensitivity fix)
-* Compile the provided `NativeCrap.dll` stub source. On Linux, `LD_PRELOAD` it. URL to the source.
-    * Alternatively, patch the P/Invokes in `BindingCrap.dll`.
+* 
+* 
 
 **[Optional] Currently blocking progress:**
 
-* `Steam.dll` (mixed-mode dependency)
+* 
+* 
 
 **Screenshots:**
 
-* URL to screenshot 1
-* URL to screenshot 2
+* 
+* 
