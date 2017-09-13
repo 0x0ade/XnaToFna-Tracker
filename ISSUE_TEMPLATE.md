@@ -1,6 +1,8 @@
-### Game: 
+// Fill in the title with game and platform in following format: [Linux][x64] Some Game 
 
 **URL:** 
+
+**[Optional] Version:**
 
 **[Optional] Patch URL:** 
 
