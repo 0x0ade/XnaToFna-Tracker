@@ -43,7 +43,7 @@ Game status tracking repository for XnaToFna. Search for your game in the [issue
 * Compile the provided `NativeCrap.dll` stub source. On Linux, `LD_PRELOAD` it. URL to the source.
     * Alternatively, patch the P/Invokes in `BindingCrap.dll`.
 
-**[Optional] Currently blocking progress:**
+**Currently blocking progress:**
 
 * `Steam.dll` (mixed-mode dependency)
 
