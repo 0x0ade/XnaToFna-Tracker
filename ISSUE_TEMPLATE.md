@@ -2,7 +2,9 @@
 
 **URL:** 
 
-**[Optional] Version:**
+**[Optional] Game Version:**
+
+**XnaToFna Version:**
 
 **[Optional] Patch URL:** 
 
