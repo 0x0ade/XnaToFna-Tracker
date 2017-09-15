@@ -29,7 +29,9 @@ Game status tracking repository for XnaToFna. Search for your game in the [issue
 
 **URL:** URL to the Steam Store or similar.
 
-**Version:** Latest stable at Steam, date: 2017-09-13
+**Game Version:** Latest stable at Steam, date: 2017-09-13
+
+**XnaToFna Version:** 17.09.1
 
 ![playable with minor bugs](https://raw.githubusercontent.com/0x0ade/XnaToFna-Tracker/master/badges/minorbugs.png)
 
